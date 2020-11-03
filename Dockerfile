@@ -1,4 +1,4 @@
-# ベースイメージ
+# ベースイメージ Python Dockerfile
 FROM python:3.5.9
 
 # pipをアップグレード
